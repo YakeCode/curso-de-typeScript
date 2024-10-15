@@ -1,6 +1,6 @@
 (async ()=> {
   const myCart = [];
-  const products = [];
+  let products = [];
   const limit = 2;
 
   async function getProducts() {
@@ -35,3 +35,4 @@
   // const rta = person +  limit;
   // console.log(rta);
 });
+

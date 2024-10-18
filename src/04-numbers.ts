@@ -16,4 +16,6 @@
   let discount:number = parseInt ('123')
   console.log('discount', discount)
 
+
+
 })()

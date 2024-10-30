@@ -7,7 +7,7 @@ Any = cualquier cosa
     myDynamicVar=null;
     myDynamicVar=false;
 
-Con ANY podemos definir que una variable pueda tener cualquier clase de asignacion
+Con ANY podemos definir que una variable pueda tener cualquier clase de asignacion, siendo flexible y tenemos el metodo AS por si queremos tiparlo de alguna forma
 
 * Se aconseja que el Any no sea utilizado
 

@@ -27,3 +27,22 @@ ________________________________________________________________
 
     - const rta = (myDynamicVar as string)
     - const rta2 = (<string>myDynamicVar)
+
+__________________________________________________________________
+
+## Tipos Personalizados
+
+* Sintaxys -> type Alias = tipos
+* Declaracion ->  type UserId = string | number | boolean
+* Asignacion -> let userId: UserId
+_________________________________________________________________
+
+## Tipos Literales
+
+* Declaracion -> let camisa: S | M | L | XL 
+* Asignacion -> 
+    let camisa = S;
+    let camisa = S;
+    let camisa = S;
+    let camisa = S;
+    let camisa = s -> error

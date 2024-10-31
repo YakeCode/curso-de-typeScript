@@ -9,3 +9,28 @@ Utilizamos la palabra RESERVADA de TS "type" + alias que vamos a tipar escrita e
 * Declaracion ->  type UserId = string | number | boolean
 * Asignacion -> let userId: UserId
 
+## Tipos Literales
+
+Declaramos la variable "let" y al agregarle el tipodo indicamos que es lo unico que puede contener
+
+* Syntaxys -> let variable: tipos-literales
+
+* Declaracion -> let camisa: S | M | L | XL 
+
+* Asignacion -> 
+    let camisa = S;
+    let camisa = S;
+    let camisa = S;
+    let camisa = S;
+
+    let camisa = s -> error
+
+    
+    
+
+
+
+
+
+
+
